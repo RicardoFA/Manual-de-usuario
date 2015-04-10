@@ -49,3 +49,9 @@ El link de instalacion es:  http://mlpy.sourceforge.net/docs/3.5/install.html
 El link de descarga es: http://sourceforge.net/projects/mlpy/files/
 
 Implementacion
+
+Una vez instalados todos los requisitos se crea una carpeta en el directorio "C:/Wamp/www/" para que se guarden los archivos 
+que se van creando de php y funcionen con el servidor que viene en Wamp.
+Se inician los servidores de  Wamp y enseguida abrimos una pagina de su navegador ingresano la direccion 
+"localhost/nombre-de-carpeta" para acceder al index (muestra todos los archivos que se han guardado) y desde ahí se selecciona 
+el archivo principal para empezar a probar el sistema creado.
