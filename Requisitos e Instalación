@@ -22,7 +22,30 @@ La descarga y el manual de instalacion puede encontrarse en el siguiente link: h
 
 SublimeText
 
-La descarga puede encontrarse en el siguiente link: http://www.sublimetext.com/2
-Para la instalación de este programa solo se tiene que ejecutar el archivo .exe dando click en siguiente hasta que haya terminadp
-la instalacion y no se realiza ninguna otra configuración.
+La descarga puede encontrarse en el siguiente link:  http://www.sublimetext.com/2
+Para la instalación de este programa solo se tiene que ejecutar el archivo .exe dando click en siguiente hasta que haya 
+terminado la instalacion y no se realiza ninguna otra configuración.
 otra configuración adicional
+
+Libreria Scipy
+Es una librería para poder realizar operaciones matemáticas y el link de descarga es:
+http://sourceforge.net/projects/scipy/files/scipy/0.9.0/scipy-0.9.0-win32-superpack-python2.7.exe/download
+Para hacer la instalacion se puede acceder a este link:  http://www.scipy.org/install.html
+
+Libreria Numpy
+Permite realizar operaciones matemáticas con arrays.
+El link de descarga es el siguiente:  
+http://sourceforge.net/projects/numpy/files/NumPy/1.6.2/numpy-1.6.2-win32-superpack-python2.7.exe/download
+El link de instalación es el siguiente:  http://docs.scipy.org/doc/numpy/user/install.html
+
+Libreria scikit-learn
+Módulo que integra un conjunto de algoritmos  para aprendizaje automático
+El link de descarga es el siguiente: https://pypi.python.org/pypi/scikit-learn/0.13.1#downloads
+El link de instalación es: http://scikit-learn.org/stable/install.html
+
+Libreria Mlpy
+Módulo de Python de machine learning que ofrece metodos de aprendizaje de problemas supervisados y no supervisados
+El link de instalacion es:  http://mlpy.sourceforge.net/docs/3.5/install.html
+El link de descarga es: http://sourceforge.net/projects/mlpy/files/
+
+Implementacion
