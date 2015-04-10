@@ -1,0 +1,9 @@
+-  Ingresamos a la página principal de GitHub y creamos una cuenta para poder tener acceso.
+- Una vez registrados seleccionamos la opción 'create repository' donde ingresaremos el nombre del repositorio, 
+- Ingresar una descripción de lo que será el tema. 
+- Seleccionar si el repositorio será público o privado
+- Seleccionar que se desea iniciar el repositorio 'readme' (Esto genera automáticamente un archivo para poder modificar la información que se desea poner, si no se selecciona es porque se tiene un repositorio ya hecho y solo se desea importar)
+- Una vez seleccionado y llenado todas las opciones damos click en el botón 'create repository'.
+- Para modificar el archivo que hemos creado damos click sobre el nombre y enseguida seleccionamos el icono del lápiz para poder editar el texto, una vez finalizado damos click en 'actualizar repositorio'.
+- Para crear un nuevo archivo damos un click en el simbolo '+' que se encuentra a un lado de nuestro titulo.
+- Una vez guardado todos los cambios, simplemente accedemos a la direccion www.github.com/nombre-de-usuario/titulo-del-documento.git
