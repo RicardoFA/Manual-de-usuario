@@ -1,0 +1,28 @@
+Las herramientas que se utilizan para realizar el proyecto son las siguientes:
+- Lenguaje de programación Phyton 2.7.0
+- Gestor de servidores WAMP 5, que incluyen Apache 2.0, PHP 5 y MySql 5.0.
+- Editor de codigo Sublime text 2.0
+- Lenguaje de programacion HTML
+- Hoja de estilos CSS3 
+
+Se utilizaron las siguientes librerias machine learning:
+- Numpy-1.6.2-win32-superpack-python2.7
+- Scikit-learn-0.13.1.win32-py2.7
+- Mlpy-3.5.0.win32-py2.7
+- Matplotlib-1.4.2.win32-py2.7
+
+Instalación y descarga
+
+Python
+La instalación de Python 2.7.0 se puede encontrar en el siguiente link: http://www.ehowenespanol.com/instalar-python-windows-como_44790/
+La descarga se puede encontrar en el siguiente link: https://www.python.org/download/releases/2.7.7/
+
+WAMP
+La descarga y el manual de instalacion puede encontrarse en el siguiente link: http://www.wampserver.com/en/#download-wrapper
+
+SublimeText
+
+La descarga puede encontrarse en el siguiente link: http://www.sublimetext.com/2
+Para la instalación de este programa solo se tiene que ejecutar el archivo .exe dando click en siguiente hasta que haya terminadp
+la instalacion y no se realiza ninguna otra configuración.
+otra configuración adicional
